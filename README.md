@@ -1,0 +1,2 @@
+# Browser-Forensics-Investigation-Cryptominer-Incident
+In this project, I conducted a browser-based forensic investigation following a SOC alert indicating suspicious crypto-mining traffic originating from a newly joined workstation on the network. The incident response team identified that the malicious traffic was being generated through browser applications, prompting a detailed forensic analysis.
